@@ -1,0 +1,9 @@
+{
+  "schema": "works-by-us.problem.v1",
+  "id": "free-acrobat-pro-alternative",
+  "repository": "https://github.com/jpgordon00/ci-free-acrobat-pro-alternative",
+  "hub": "https://github.com/jpgordon00/works-by-us",
+  "problem": "https://works-by-us.jacob-gordon255689.chatgpt.site/problems/free-acrobat-pro-alternative/",
+  "mcp": "https://works-by-us.jacob-gordon255689.chatgpt.site/api/mcp/projects/free-acrobat-pro-alternative",
+  "catalog_commit": "f51b30f7ce3208bd3264f623eec19752dd973433"
+}
